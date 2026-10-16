@@ -1,0 +1,2 @@
+Aprendí que trabajar con varios alumnos es mucho más sencillo usando arreglos, porque ya no tengo que crear una variable para cada uno ni repetir tanto código.
+Utilicé la IA para darme una idea de como tengo que hacer el código y que me ayude explicándome las dudas que pueda tener.
